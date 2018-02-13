@@ -1,3 +1,1 @@
-### YamlMime:YamlDocument
-documentType: LandingData
 ### 2018/2/13 13:28:22
